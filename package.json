@@ -1,9 +1,10 @@
 {
-  "name": "eslint-config-oclif",
+  "name": "@pythoncoderas/eslint-config-oclif",
+  "private": false,
   "description": "eslint config for oclif",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "author": "Jeff Dickey @jdxcode",
-  "bugs": "https://github.com/oclif/eslint-config-oclif/issues",
+  "bugs": "https://github.com/PythonCoderAS/eslint-config-oclif/issues",
   "dependencies": {
     "eslint-config-xo-space": "^0.30.0",
     "eslint-plugin-mocha": "^10.0.5",
@@ -19,13 +20,13 @@
   "files": [
     "/index.js"
   ],
-  "homepage": "https://github.com/oclif/eslint-config-oclif",
+  "homepage": "https://github.com/PythonCoderAS/eslint-config-oclif",
   "keywords": [
     "oclif"
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "oclif/eslint-config-oclif",
+  "repository": "PythonCoderAS/eslint-config-oclif",
   "scripts": {
     "test": "eslint -c index.js .",
     "build": "echo 'nothing to build!'"

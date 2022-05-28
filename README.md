@@ -1,4 +1,4 @@
 eslint-config-oclif
 ====================
 
-eslint config for oclif
+Eslint config for oclif. Published under `@pythoncoderas/eslint-config-oclif`.
