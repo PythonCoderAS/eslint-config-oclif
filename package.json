@@ -2,7 +2,7 @@
   "name": "@pythoncoderas/eslint-config-oclif",
   "private": false,
   "description": "eslint config for oclif",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/PythonCoderAS/eslint-config-oclif/issues",
   "dependencies": {
@@ -15,7 +15,7 @@
     "eslint": "^8.16.0"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=14.0.0"
   },
   "files": [
     "/index.js"
