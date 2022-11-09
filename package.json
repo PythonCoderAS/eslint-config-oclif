@@ -6,7 +6,7 @@
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/PythonCoderAS/eslint-config-oclif/issues",
   "dependencies": {
-    "eslint-config-xo-space": "^0.33.0",
+    "eslint-config-xo-space": "^0.34.0",
     "eslint-plugin-mocha": "^10.0.5",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-unicorn": "^44.0.0"
